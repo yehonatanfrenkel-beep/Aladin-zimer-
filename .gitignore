@@ -1,0 +1,20 @@
+# Executables & Binaries
+*.exe
+*.tar.gz
+*.zip
+
+# Scratch, audit, and mockups
+scratch/
+audit_screenshots/
+mocks/
+
+# Root-level screenshot & test artifacts
+/*.png
+/*.jpg
+/*.jpeg
+
+# OS & Editor metadata
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

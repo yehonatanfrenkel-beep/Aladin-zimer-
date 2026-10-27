@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://aladin-hadnes.co.il/</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    
+    <!-- Hero / Resort Sunset -->
+    <image:image>
+      <image:loc>https://aladin-hadnes.co.il/images/hero_resort_sunset.jpg</image:loc>
+      <image:title>מתחם הנופש אלאדין חד נס - שקיעה מול הכנרת</image:title>
+      <image:caption>מתחם אירוח בוטיק יוקרתי בחד נס מול נופי הכנרת והגולן עם בריכה, בקתות ומערות אבן</image:caption>
+    </image:image>
+
+    <!-- Aladdin 1 Suite -->
+    <image:image>
+      <image:loc>https://aladin-hadnes.co.il/images/aladdin1_main.jpg</image:loc>
+      <image:title>מערת אלאדין 1 - מערת אבן רומנטית לזוגות</image:title>
+      <image:caption>מערת אבן אותנטית שנבנתה בעבודת יד עם ג'קוזי ענק פנורמי וקמין עצים</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://aladin-hadnes.co.il/images/aladdin1_jacuzzi.jpg</image:loc>
+      <image:title>ג'קוזי פנורמי מפואר במערת אלאדין 1</image:title>
+      <image:caption>ג'קוזי מרווח מול הנוף הפסטורלי והאבן הטבעית</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://aladin-hadnes.co.il/images/aladdin1_bed.jpg</image:loc>
+      <image:title>מיטה זוגית מלכותית במערת אלאדין 1</image:title>
+      <image:caption>מיטה איכותית עם מצעי כותנה יוקרתיים ותאורת אווירה מלטפת</image:caption>
+    </image:image>
+
+    <!-- Aladdin 2 Suite -->
+    <image:image>
+      <image:loc>https://aladin-hadnes.co.il/images/aladdin2_main.jpg</image:loc>
+      <image:title>מערת אלאדין 2 - מערת אבן מפוארת מול הנוף</image:title>
+      <image:caption>עיצוב מערה ייחודי עם פינות ישיבה מרווחות וג'קוזי זוגי מפנק</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://aladin-hadnes.co.il/images/aladdin2_jacuzzi.jpg</image:loc>
+      <image:title>ג'קוזי רומנטי מפואר במערת אלאדין 2</image:title>
+      <image:caption>חוויית רחצה מפנקת באווירה אינטימית ומרגיעה</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://aladin-hadnes.co.il/images/aladdin2_bed.jpg</image:loc>
+      <image:title>חדר שינה יוקרתי במערת אלאדין 2</image:title>
+      <image:caption>עיצוב אותנטי המשלב אבן טבעית, עץ ותאורה מיוחדת</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://aladin-hadnes.co.il/images/aladdin2_room.jpg</image:loc>
+      <image:title>חלל האירוח של מערת אלאדין 2</image:title>
+      <image:caption>חלל פנימי מרווח עם מטבחון מאובזר ומכונת אספרסו</image:caption>
+    </image:image>
+
+    <!-- Swiss Cabins -->
+    <image:image>
+      <image:loc>https://aladin-hadnes.co.il/images/cabins_main.jpg</image:loc>
+      <image:title>בקתות עץ שוויצריות כפריות באלאדין חד נס</image:title>
+      <image:caption>בקתות עץ חמימות ומבודדות עם מרפסת נוף פרטית וג'קוזי זוגי</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://aladin-hadnes.co.il/images/cabins_living.jpg</image:loc>
+      <image:title>סלון וחלל אירוח בבקתת עץ שוויצרית</image:title>
+      <image:caption>אירוח כפרי חם עם סלון מרווח וקמין עצים</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://aladin-hadnes.co.il/images/cabins_jacuzzi.jpg</image:loc>
+      <image:title>ג'קוזי פנורמי בבקתת העץ</image:title>
+      <image:caption>ג'קוזי המשקיף אל החצר הפסטורלית ונופי הכנרת</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://aladin-hadnes.co.il/images/cabins_shanti.jpg</image:loc>
+      <image:title>פינת שאנטי ורוגע בבקתת עץ</image:title>
+      <image:caption>פינת מנוחה אינטימית לשלווה מושלמת</image:caption>
+    </image:image>
+
+    <!-- Pool and Yard -->
+    <image:image>
+      <image:loc>https://aladin-hadnes.co.il/images/pool_06.jpg</image:loc>
+      <image:title>בריכת שחייה צלולה ומתחם גן פסטורלי</image:title>
+      <image:caption>בריכת שחייה מרעננת מול נוף הרי הגולן והכנרת</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://aladin-hadnes.co.il/images/pool_deck.jpg</image:loc>
+      <image:title>דק שיזוף ומיטות נוחות בבריכה</image:title>
+      <image:caption>פינות ישיבה מוצלות ומיטות שיזוף אל מול המרחבים הירוקים</image:caption>
+    </image:image>
+
+    <!-- Treats -->
+    <image:image>
+      <image:loc>https://aladin-hadnes.co.il/images/breakfast_treat.jpg</image:loc>
+      <image:title>ארוחת בוקר גלילית כפרית עשירה</image:title>
+      <image:caption>ארוחת בוקר עשירה עם גבינות משק, מאפים טריים, סלטים ומטעמים כפריים</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://aladin-hadnes.co.il/images/wine_gift.jpg</image:loc>
+      <image:title>בקבוק יין איכותי במתנה לאורחים</image:title>
+      <image:caption>הטבה בלעדית: בקבוק יין משובח הממתין בסוויטה עם הגעתכם</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://aladin-hadnes.co.il/images/spa_01.jpg</image:loc>
+      <image:title>עיסויי גוף וטיפולי ספא מרגיעים</image:title>
+      <image:caption>טיפולי ספא מקצועיים ישירות ליחידת האירוח</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://aladin-hadnes.co.il/images/proposal.jpg</image:loc>
+      <image:title>עיצוב חדר להצעות נישואין וימי הולדת</image:title>
+      <image:caption>סידורי חדר רומנטיים, בלונים, פרחים ושוקולדים לחגיגה בלתי נשכחת</image:caption>
+    </image:image>
+  </url>
+</urlset>

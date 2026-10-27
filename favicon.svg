@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f7d070" />
+      <stop offset="50%" stop-color="#d4af37" />
+      <stop offset="100%" stop-color="#aa820a" />
+    </linearGradient>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1f3424" />
+      <stop offset="100%" stop-color="#122016" />
+    </linearGradient>
+  </defs>
+  <!-- Background Rounded Rect -->
+  <rect width="512" height="512" rx="128" fill="url(#bgGrad)"/>
+  <!-- Gold Border Outline -->
+  <rect width="480" height="480" x="16" y="16" rx="112" fill="none" stroke="url(#goldGrad)" stroke-width="8" opacity="0.6"/>
+  
+  <!-- Stylized Arabic / Boutique Aladdin Lamp & Sparkle -->
+  <g fill="url(#goldGrad)">
+    <!-- Magic Lamp Body -->
+    <path d="M210 320 c-40 0 -75 -25 -80 -60 c15 -5 30 -5 45 0 c10 15 25 25 45 25 c35 0 55 -25 55 -60 c0 -20 -8 -35 -20 -45 l30 -20 c20 15 35 40 35 70 c0 55 -40 90 -110 90 z" opacity="0.15"/>
+    <path d="M375 255 c-15 -5 -40 5 -60 20 c-20 -20 -48 -32 -80 -32 c-45 0 -85 24 -102 60 c-18 4 -43 14 -43 32 c0 20 30 35 70 35 c85 0 155 -35 175 -70 c15 -5 45 -25 40 -45 z m-190 65 c-30 0 -45 -10 -45 -18 c0 -5 10 -10 25 -14 c12 18 30 28 50 32 c-10 0 -20 0 -30 0 z m135 -30 c-15 25 -60 45 -115 45 c-25 0 -45 -5 -60 -15 c15 -25 45 -42 80 -42 c28 0 52 11 68 28 c10 -8 20 -14 27 -16 z"/>
+    <!-- Lamp Handle -->
+    <path d="M150 270 c-35 0 -65 25 -65 60 c0 35 30 60 65 60 c10 0 20 -2 30 -6 c-15 -10 -25 -26 -28 -44 c-15 2 -27 -4 -27 -10 c0 -15 15 -28 32 -32 c-2 -9 -2 -19 -2 -28 z"/>
+    <!-- Lamp Base -->
+    <ellipse cx="235" cy="380" rx="75" ry="16"/>
+    <!-- Flame / Magic Smoke -->
+    <path d="M395 240 c5 -20 -10 -45 -25 -60 c-5 15 -5 30 5 45 c-15 -5 -25 -25 -20 -45 c-15 15 -25 40 -15 60 c15 5 35 5 55 0 z"/>
+    <!-- Star / Sparkle -->
+    <path d="M390 140 l8 22 l22 8 l-22 8 l-8 22 l-8 -22 l-22 -8 l22 -8 z"/>
+    <path d="M330 110 l5 14 l14 5 l-14 5 l-5 14 l-5 -14 l-14 -5 l14 -5 z"/>
+  </g>
+</svg>

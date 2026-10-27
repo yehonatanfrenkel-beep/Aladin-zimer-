@@ -1,0 +1,16 @@
+# robots.txt for Aladdin Had Nes
+# https://aladin-hadnes.co.il/
+
+User-agent: *
+Allow: /
+Allow: /images/
+Allow: /css/
+Allow: /js/
+Allow: /favicon.svg
+
+# Disallow internal scratch/test directories if any
+Disallow: /scratch/
+Disallow: /audit_screenshots/
+
+# Sitemap location
+Sitemap: https://aladin-hadnes.co.il/sitemap.xml
