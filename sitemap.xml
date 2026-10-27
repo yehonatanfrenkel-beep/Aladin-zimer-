@@ -10,8 +10,8 @@
     <!-- Hero / Resort Sunset -->
     <image:image>
       <image:loc>https://aladin-hadnes.co.il/images/hero_resort_sunset.jpg</image:loc>
-      <image:title>מתחם הנופש אלאדין חד נס - שקיעה מול הכנרת</image:title>
-      <image:caption>מתחם אירוח בוטיק יוקרתי בחד נס מול נופי הכנרת והגולן עם בריכה, בקתות ומערות אבן</image:caption>
+      <image:title>מתחם הנופש אלאדין חד-נס - שקיעה מול הכנרת</image:title>
+      <image:caption>מתחם אירוח בוטיק יוקרתי בחד-נס מול נופי הכנרת והגולן עם בריכה, בקתות ומערות אבן</image:caption>
     </image:image>
 
     <!-- Aladdin 1 Suite -->
@@ -56,7 +56,7 @@
     <!-- Swiss Cabins -->
     <image:image>
       <image:loc>https://aladin-hadnes.co.il/images/cabins_main.jpg</image:loc>
-      <image:title>בקתות עץ שוויצריות כפריות באלאדין חד נס</image:title>
+      <image:title>בקתות עץ שוויצריות כפריות באלאדין חד-נס</image:title>
       <image:caption>בקתות עץ חמימות ומבודדות עם מרפסת נוף פרטית וג'קוזי זוגי</image:caption>
     </image:image>
     <image:image>
