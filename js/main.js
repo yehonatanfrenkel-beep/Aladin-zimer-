@@ -1,5 +1,5 @@
 /**
- * אלאדין - בקתות ומערות בחד נס | Main JavaScript
+ * אלאדין - בקתות ומערות בחד-נס | Main JavaScript
  * Lightweight, zero-dependency script for interactive features
  */
 
@@ -406,7 +406,7 @@ document.addEventListener('DOMContentLoaded', () => {
       if (room) msg += `מעוניינ/ת בפרטים לגבי: ${room}.\n`;
       if (dates) msg += `תאריכים משוערים: ${dates}.\n`;
       if (notes) msg += `הערות ובקשות: ${notes}\n`;
-      msg += `הגעתי דרך האתר החדש של אלאדין בחד נס.`;
+      msg += `הגעתי דרך האתר החדש של אלאדין בחד-נס.`;
 
       const encodedMsg = encodeURIComponent(msg);
       window.open(`https://wa.me/972505316869?text=${encodedMsg}`, '_blank');
